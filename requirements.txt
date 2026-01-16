@@ -14,7 +14,7 @@ SQLAlchemy==2.0.23
 asyncpg==0.29.0
 
 # Vector database
-faiss-cpu==1.7.4
+faiss-cpu==1.8.0
 weaviate-client==4.6.5
 
 # AI/NLP
